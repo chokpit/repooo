@@ -1,1 +1,0 @@
-print ("stam3")
