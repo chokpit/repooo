@@ -1,1 +1,1 @@
-print ("stamdsa3")
+print ("222")
