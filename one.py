@@ -1,1 +1,1 @@
-print ("stam3")
+print ("stamdsa3")
